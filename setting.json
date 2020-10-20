@@ -1,0 +1,5 @@
+{
+    "workbench.colorTheme": "Solarized Dark",
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.cwd": "${fileDirname}"
+}
